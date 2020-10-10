@@ -2,4 +2,4 @@
 An Android Application which helps Patients interact efficiently with Doctors.
 It will also help Patient to take appointment, give feedback about Doctor and search Doctors and Clinics near by them on the feedback.
 
-It is an AI based application.
+It is an AI based application. It is an attempt to automate things.
